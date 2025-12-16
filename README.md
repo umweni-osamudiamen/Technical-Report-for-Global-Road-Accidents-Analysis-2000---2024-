@@ -1,6 +1,6 @@
 # Technical-Report-for-Global-Road-Accidents-Analysis-2000---2024-
 
-<img width="602" height="302" alt="excel dashboard" src="https://github.com/user-attachments/assets/a3d34939-ac7a-4e5b-9759-fe4275c6b45b" />
+<img width="532" height="569" alt="road accident dashboard" src="https://github.com/user-attachments/assets/412fde5d-d01d-4560-a4eb-b5aa28b05fc5" />
 
 Introduction  The objective of this project is to carry out a comprehensive analysis of Global Road Accidents, using data from multiple countries. This analysis seeks  to uncover patterns, evaluate contributing factors, and assess the human and economic impacts of road accidents across different countries and regions.
 This analysis will help inform safety strategies, policy recommendations, and safeguard awareness globally with specific effort to include underrepresented regions such as Africa.
